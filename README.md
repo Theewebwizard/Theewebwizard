@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Theewebwizard
 - 👀 I’m interested in 
-- 🌱 I’m currently learning -->JS
+- 🌱 I’m currently learning -->ReactJs and MongoDb
 - 💞️ I’m working on something cool
 - 📫 How to reach me:
   linkedin-->https://www.linkedin.com/in/pranshu-saxena-41347021a/
