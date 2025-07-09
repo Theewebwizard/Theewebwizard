@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning -->Rust
 - 💞️ I’m working on something cool
 - 📫 How to reach me:
-   -linkedin-->https://www.linkedin.com/in/pranshu-saxena-41347021a/
-   -instagram-->https://www.instagram.com/pranshusaxena2/
+linkedin-->https://www.linkedin.com/in/pranshu-saxena-41347021a/
+   
+instagram-->https://www.instagram.com/pranshusaxena2/
 
 <!---
 Theewebwizard/Theewebwizard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
